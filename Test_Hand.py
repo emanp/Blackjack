@@ -1,5 +1,5 @@
 #Tests for Hand.py
-#DONE
+
 import unittest 
 
 from Hand import Hand 
